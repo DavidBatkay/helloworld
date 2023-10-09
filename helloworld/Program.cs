@@ -1,4 +1,5 @@
 ﻿using helloworld;
+using System.Security.AccessControl;
 
 namespace HelloWorld
 {
@@ -6,14 +7,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello, World!");
-            //int i = 10;
-            //Console.WriteLine(i);
 
-            Person p1= new Person();
-            p1.ReadName();
-            p1.SayHello();
-
+            float a = (float)10 / -0F;
+            Console.WriteLine(a);
         }
+
+        
     }
 }

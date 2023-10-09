@@ -1,0 +1,14 @@
+{
+  "name": "curs3oct2023-alogritmica",
+  "version": "0.0.0",
+  "description": "Curs3oct2023ALOGRITMICA",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}

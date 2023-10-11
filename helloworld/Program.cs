@@ -1,5 +1,6 @@
 ﻿using helloworld;
 using System.Security.AccessControl;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace HelloWorld
 {
@@ -8,10 +9,13 @@ namespace HelloWorld
         static void Main(string[] args)
         {
 
-            float a = (float)10 / -0F;
-            Console.WriteLine(a);
-        }
+            string text1 = @"AAA";
+            string text2 = @"aaa";
+            text1.CompareTo(text2);
 
-        
+
+
+
+        }
     }
 }

@@ -1,0 +1,14 @@
+D:\UEO\GIT\helloworld\bin\Debug\net7.0\helloworld.exe
+D:\UEO\GIT\helloworld\bin\Debug\net7.0\helloworld.deps.json
+D:\UEO\GIT\helloworld\bin\Debug\net7.0\helloworld.runtimeconfig.json
+D:\UEO\GIT\helloworld\bin\Debug\net7.0\helloworld.dll
+D:\UEO\GIT\helloworld\bin\Debug\net7.0\helloworld.pdb
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfoInputs.cache
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfo.cs
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\helloworld.csproj.CoreCompileInputs.cache
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\helloworld.dll
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\refint\helloworld.dll
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\helloworld.pdb
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
+D:\UEO\GIT\helloworld\obj\Debug\net7.0\ref\helloworld.dll

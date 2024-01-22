@@ -1,0 +1,16 @@
+D:\UEO\GIT\clockk\Clock\Clock\bin\Debug\net7.0-windows\Clock.exe
+D:\UEO\GIT\clockk\Clock\Clock\bin\Debug\net7.0-windows\Clock.deps.json
+D:\UEO\GIT\clockk\Clock\Clock\bin\Debug\net7.0-windows\Clock.runtimeconfig.json
+D:\UEO\GIT\clockk\Clock\Clock\bin\Debug\net7.0-windows\Clock.dll
+D:\UEO\GIT\clockk\Clock\Clock\bin\Debug\net7.0-windows\Clock.pdb
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.Form1.resources
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.csproj.GenerateResource.cache
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.AssemblyInfoInputs.cache
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.AssemblyInfo.cs
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.csproj.CoreCompileInputs.cache
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.dll
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\refint\Clock.dll
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.pdb
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\Clock.genruntimeconfig.cache
+D:\UEO\GIT\clockk\Clock\Clock\obj\Debug\net7.0-windows\ref\Clock.dll

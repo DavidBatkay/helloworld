@@ -1,0 +1,14 @@
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\PaymentMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\PaymentMethods.AssemblyInfoInputs.cache
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\PaymentMethods.AssemblyInfo.cs
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\PaymentMethods.csproj.CoreCompileInputs.cache
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\bin\Debug\net7.0\PaymentMethods.exe
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\bin\Debug\net7.0\PaymentMethods.deps.json
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\bin\Debug\net7.0\PaymentMethods.runtimeconfig.json
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\bin\Debug\net7.0\PaymentMethods.dll
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\bin\Debug\net7.0\PaymentMethods.pdb
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\PaymentMethods.dll
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\refint\PaymentMethods.dll
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\PaymentMethods.pdb
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\PaymentMethods.genruntimeconfig.cache
+D:\UEO\GIT\PaymentMethods\PaymentMethods\PaymentMethods\obj\Debug\net7.0\ref\PaymentMethods.dll

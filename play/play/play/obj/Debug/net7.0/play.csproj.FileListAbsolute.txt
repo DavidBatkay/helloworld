@@ -1,0 +1,14 @@
+D:\UEO\GIT\play\play\play\bin\Debug\net7.0\play.exe
+D:\UEO\GIT\play\play\play\bin\Debug\net7.0\play.deps.json
+D:\UEO\GIT\play\play\play\bin\Debug\net7.0\play.runtimeconfig.json
+D:\UEO\GIT\play\play\play\bin\Debug\net7.0\play.dll
+D:\UEO\GIT\play\play\play\bin\Debug\net7.0\play.pdb
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\play.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\play.AssemblyInfoInputs.cache
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\play.AssemblyInfo.cs
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\play.csproj.CoreCompileInputs.cache
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\play.dll
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\refint\play.dll
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\play.pdb
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\play.genruntimeconfig.cache
+D:\UEO\GIT\play\play\play\obj\Debug\net7.0\ref\play.dll

@@ -1,0 +1,16 @@
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.AssemblyInfoInputs.cache
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.AssemblyInfo.cs
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.csproj.CoreCompileInputs.cache
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\bin\Debug\net7.0-windows\AnalogClockApp.exe
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\bin\Debug\net7.0-windows\AnalogClockApp.deps.json
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\bin\Debug\net7.0-windows\AnalogClockApp.runtimeconfig.json
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\bin\Debug\net7.0-windows\AnalogClockApp.dll
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\bin\Debug\net7.0-windows\AnalogClockApp.pdb
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.MainForm.resources
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.csproj.GenerateResource.cache
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.dll
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\refint\AnalogClockApp.dll
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.pdb
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\AnalogClockApp.genruntimeconfig.cache
+D:\UEO\GIT\AnalogClockApp1\AnalogClockApp\AnalogClockApp\obj\Debug\net7.0-windows\ref\AnalogClockApp.dll

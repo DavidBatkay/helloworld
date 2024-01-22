@@ -1,0 +1,3 @@
+D:\UEO\GIT\Curs3oct2023ALOGRITMICA\obj\Debug\Curs3oct2023ALOGRITMICA.njsproj.AssemblyReference.cache
+D:\UEO\GIT\Curs3oct2023ALOGRITMICA\obj\Debug\Curs3oct2023ALOGRITMICA.njsproj.CoreCompileInputs.cache
+D:\UEO\GIT\Curs3oct2023ALOGRITMICA\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,14 @@
+D:\UEO\GIT\clock\clock\clock\bin\Debug\net7.0\clock.exe
+D:\UEO\GIT\clock\clock\clock\bin\Debug\net7.0\clock.deps.json
+D:\UEO\GIT\clock\clock\clock\bin\Debug\net7.0\clock.runtimeconfig.json
+D:\UEO\GIT\clock\clock\clock\bin\Debug\net7.0\clock.dll
+D:\UEO\GIT\clock\clock\clock\bin\Debug\net7.0\clock.pdb
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\clock.AssemblyInfoInputs.cache
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\clock.AssemblyInfo.cs
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\clock.csproj.CoreCompileInputs.cache
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\clock.dll
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\refint\clock.dll
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\clock.pdb
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\clock.genruntimeconfig.cache
+D:\UEO\GIT\clock\clock\clock\obj\Debug\net7.0\ref\clock.dll

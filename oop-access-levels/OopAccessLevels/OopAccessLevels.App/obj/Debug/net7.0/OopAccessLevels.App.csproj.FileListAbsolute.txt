@@ -1,0 +1,4 @@
+D:\UEO\GIT\oop-access-levels\OopAccessLevels\OopAccessLevels.App\obj\Debug\net7.0\OopAccessLevels.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEO\GIT\oop-access-levels\OopAccessLevels\OopAccessLevels.App\obj\Debug\net7.0\OopAccessLevels.App.AssemblyInfoInputs.cache
+D:\UEO\GIT\oop-access-levels\OopAccessLevels\OopAccessLevels.App\obj\Debug\net7.0\OopAccessLevels.App.AssemblyInfo.cs
+D:\UEO\GIT\oop-access-levels\OopAccessLevels\OopAccessLevels.App\obj\Debug\net7.0\OopAccessLevels.App.csproj.CoreCompileInputs.cache
